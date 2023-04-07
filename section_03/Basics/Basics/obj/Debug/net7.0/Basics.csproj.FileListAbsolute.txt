@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\bin\Debug\net7.0\Basics.exe
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\bin\Debug\net7.0\Basics.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\bin\Debug\net7.0\Basics.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\bin\Debug\net7.0\Basics.dll
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\bin\Debug\net7.0\Basics.pdb
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\obj\Debug\net7.0\Basics.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\obj\Debug\net7.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\obj\Debug\net7.0\Basics.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\obj\Debug\net7.0\Basics.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\obj\Debug\net7.0\Basics.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\obj\Debug\net7.0\Basics.dll
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\obj\Debug\net7.0\refint\Basics.dll
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\obj\Debug\net7.0\Basics.pdb
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\obj\Debug\net7.0\Basics.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_03\Basics\Basics\obj\Debug\net7.0\ref\Basics.dll
