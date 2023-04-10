@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace TriangleAreaPOO
 {
@@ -6,7 +7,42 @@ namespace TriangleAreaPOO
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Triangulo x, y;
+
+            x = new Triangulo();
+            y = new Triangulo();
+
+
+
+            Console.WriteLine("Entre com as medidas do triângulo X:");
+
+            x.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.WriteLine("Entre com as medidas do triângulo Y:");
+
+            y.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            double areaX = x.Area();
+
+            double areaY = y.Area();
+
+            Console.WriteLine("A área do triângulo X  é: " + areaX.ToString("F4", CultureInfo.InvariantCulture));
+
+            Console.WriteLine("A área do triângulo Y  é: " + areaY.ToString("F4", CultureInfo.InvariantCulture));
+
+            if (areaX > areaY)
+            {
+                Console.WriteLine("O triângulo com a maior área é o X");
+            }
+            else
+            {
+                Console.WriteLine("O triângulo com a maior área é o Y");
+            }
+
         }
     }
 }

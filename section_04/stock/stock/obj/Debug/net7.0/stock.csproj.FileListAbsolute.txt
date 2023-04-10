@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\bin\Debug\net7.0\stock.exe
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\bin\Debug\net7.0\stock.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\bin\Debug\net7.0\stock.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\bin\Debug\net7.0\stock.dll
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\bin\Debug\net7.0\stock.pdb
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\obj\Debug\net7.0\stock.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\obj\Debug\net7.0\stock.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\obj\Debug\net7.0\stock.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\obj\Debug\net7.0\stock.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\obj\Debug\net7.0\stock.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\obj\Debug\net7.0\stock.dll
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\obj\Debug\net7.0\refint\stock.dll
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\obj\Debug\net7.0\stock.pdb
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\obj\Debug\net7.0\stock.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_04\stock\stock\obj\Debug\net7.0\ref\stock.dll

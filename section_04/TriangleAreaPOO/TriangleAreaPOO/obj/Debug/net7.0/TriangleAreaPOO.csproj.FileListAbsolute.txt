@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\bin\Debug\net7.0\TriangleAreaPOO.exe
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\bin\Debug\net7.0\TriangleAreaPOO.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\bin\Debug\net7.0\TriangleAreaPOO.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\bin\Debug\net7.0\TriangleAreaPOO.dll
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\bin\Debug\net7.0\TriangleAreaPOO.pdb
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\obj\Debug\net7.0\TriangleAreaPOO.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\obj\Debug\net7.0\TriangleAreaPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\obj\Debug\net7.0\TriangleAreaPOO.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\obj\Debug\net7.0\TriangleAreaPOO.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\obj\Debug\net7.0\TriangleAreaPOO.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\obj\Debug\net7.0\TriangleAreaPOO.dll
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\obj\Debug\net7.0\refint\TriangleAreaPOO.dll
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\obj\Debug\net7.0\TriangleAreaPOO.pdb
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\obj\Debug\net7.0\TriangleAreaPOO.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_04\TriangleAreaPOO\TriangleAreaPOO\obj\Debug\net7.0\ref\TriangleAreaPOO.dll
