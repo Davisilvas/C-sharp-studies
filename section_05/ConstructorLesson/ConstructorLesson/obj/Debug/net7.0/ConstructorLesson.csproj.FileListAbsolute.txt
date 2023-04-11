@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\bin\Debug\net7.0\ConstructorLesson.exe
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\bin\Debug\net7.0\ConstructorLesson.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\bin\Debug\net7.0\ConstructorLesson.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\bin\Debug\net7.0\ConstructorLesson.dll
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\bin\Debug\net7.0\ConstructorLesson.pdb
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\obj\Debug\net7.0\ConstructorLesson.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\obj\Debug\net7.0\ConstructorLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\obj\Debug\net7.0\ConstructorLesson.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\obj\Debug\net7.0\ConstructorLesson.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\obj\Debug\net7.0\ConstructorLesson.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\obj\Debug\net7.0\ConstructorLesson.dll
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\obj\Debug\net7.0\refint\ConstructorLesson.dll
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\obj\Debug\net7.0\ConstructorLesson.pdb
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\obj\Debug\net7.0\ConstructorLesson.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\ConstructorLesson\ConstructorLesson\obj\Debug\net7.0\ref\ConstructorLesson.dll
