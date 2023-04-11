@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\bin\Debug\net7.0\Sobrecarga.exe
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\bin\Debug\net7.0\Sobrecarga.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\bin\Debug\net7.0\Sobrecarga.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\bin\Debug\net7.0\Sobrecarga.dll
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\bin\Debug\net7.0\Sobrecarga.pdb
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.dll
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\obj\Debug\net7.0\refint\Sobrecarga.dll
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.pdb
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\obj\Debug\net7.0\Sobrecarga.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\Sobrecarga\Sobrecarga\obj\Debug\net7.0\ref\Sobrecarga.dll
