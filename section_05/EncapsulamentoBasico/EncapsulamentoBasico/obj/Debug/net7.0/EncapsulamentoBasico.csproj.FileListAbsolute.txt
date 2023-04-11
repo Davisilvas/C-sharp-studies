@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\bin\Debug\net7.0\EncapsulamentoBasico.exe
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\bin\Debug\net7.0\EncapsulamentoBasico.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\bin\Debug\net7.0\EncapsulamentoBasico.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\bin\Debug\net7.0\EncapsulamentoBasico.dll
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\bin\Debug\net7.0\EncapsulamentoBasico.pdb
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\obj\Debug\net7.0\EncapsulamentoBasico.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\obj\Debug\net7.0\EncapsulamentoBasico.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\obj\Debug\net7.0\EncapsulamentoBasico.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\obj\Debug\net7.0\EncapsulamentoBasico.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\obj\Debug\net7.0\EncapsulamentoBasico.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\obj\Debug\net7.0\EncapsulamentoBasico.dll
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\obj\Debug\net7.0\refint\EncapsulamentoBasico.dll
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\obj\Debug\net7.0\EncapsulamentoBasico.pdb
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\obj\Debug\net7.0\EncapsulamentoBasico.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\EncapsulamentoBasico\EncapsulamentoBasico\obj\Debug\net7.0\ref\EncapsulamentoBasico.dll
