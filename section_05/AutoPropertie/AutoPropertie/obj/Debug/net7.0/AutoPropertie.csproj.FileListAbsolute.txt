@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\bin\Debug\net7.0\AutoPropertie.exe
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\bin\Debug\net7.0\AutoPropertie.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\bin\Debug\net7.0\AutoPropertie.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\bin\Debug\net7.0\AutoPropertie.dll
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\bin\Debug\net7.0\AutoPropertie.pdb
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\obj\Debug\net7.0\AutoPropertie.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\obj\Debug\net7.0\AutoPropertie.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\obj\Debug\net7.0\AutoPropertie.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\obj\Debug\net7.0\AutoPropertie.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\obj\Debug\net7.0\AutoPropertie.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\obj\Debug\net7.0\AutoPropertie.dll
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\obj\Debug\net7.0\refint\AutoPropertie.dll
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\obj\Debug\net7.0\AutoPropertie.pdb
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\obj\Debug\net7.0\AutoPropertie.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_05\AutoPropertie\AutoPropertie\obj\Debug\net7.0\ref\AutoPropertie.dll
