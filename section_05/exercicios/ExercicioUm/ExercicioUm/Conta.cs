@@ -11,8 +11,8 @@ namespace ExercicioUm
     internal class Conta
     {
         private int _accountNumber;
-        private string _name;        
-        private double _bankBalance;
+        private string _name;               
+        public double BankBalance { get; private set; }
 
         // CONSTRUCTORS
         public Conta(string name, int accountNumber)
@@ -23,7 +23,19 @@ namespace ExercicioUm
 
         public Conta(string name, int accountNumber, double bankDeposit) : this(name, accountNumber)
         {
-            BankBalance = bankDeposit;            
+            if(bankDeposit > 0)
+            {
+                Deposit(bankDeposit);            
+            }
+            else
+            {
+                Console.WriteLine();
+                Console.WriteLine("O depósito inicial deve ser maior que R$0.");
+                Console.Write("Insira o depósito na formatação correta: ");
+                bankDeposit = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                Deposit(bankDeposit);
+            }
+            
         }
 
 
@@ -63,25 +75,6 @@ namespace ExercicioUm
                 else
                 {
                     _accountNumber = value;
-                }
-            }
-        }
-
-        public double BankBalance
-        {
-            get { return _bankBalance; }
-            private set
-            {
-                if (value < 0)
-                {
-                    Console.WriteLine();
-                    Console.WriteLine("O depósito inicial deve ser maior que R$0.");
-                    Console.Write("Insira o depósito na formatação correta: ");
-                    _bankBalance = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                }
-                else
-                {
-                    _bankBalance = value;
                 }
             }
         }
