@@ -18,20 +18,19 @@ namespace ExercicioUm
         // CONSTRUCTORS
         public Conta(string name, int accountNumber)
         {
-            _name = name;
-            _accountNumber = accountNumber;
+            Name = name;
+            AccountNumber = accountNumber;
         }
 
         public Conta(string name, int accountNumber, double bankDeposit) : this(name, accountNumber)
         {
-            _bankDeposit = bankDeposit;
+            BankDeposit = bankDeposit;
 
             Deposit(bankDeposit);
         }
 
 
-
-
+        // PROPERTIES
         public string Name
         {
             get { return _name; }
@@ -44,7 +43,10 @@ namespace ExercicioUm
                 }
                 else
                 {
+                    Console.WriteLine();
                     Console.WriteLine("O nome não pode ser vazio e deve conter no mínimo 3 caracteres.");
+                    Console.Write("Insira o nome na formatação correta: ");
+                    _name = Console.ReadLine();
                 }
             }
         }
@@ -54,9 +56,12 @@ namespace ExercicioUm
             get { return _accountNumber; }
             private set
             {
-                if (value < 1000)
+                if (value < 1000 || value > 10000)
                 {
-                    Console.WriteLine("O Número da conta deve conter 4 dígito e não pode começar com 0.");
+                    Console.WriteLine();
+                    Console.WriteLine("O Número da conta deve conter 4 dígitos e não pode começar com 0.");
+                    Console.Write("Insira o número na formatação correta: ");
+                    _accountNumber = int.Parse(Console.ReadLine());
                 }
                 else
                 {
@@ -72,7 +77,10 @@ namespace ExercicioUm
             {
                 if (value < 0)
                 {
+                    Console.WriteLine();
                     Console.WriteLine("O depósito inicial deve ser maior que R$0.");
+                    Console.Write("Insira o depósito na formatação correta: ");
+                    _bankDeposit = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 }
                 else
                 {
@@ -90,7 +98,11 @@ namespace ExercicioUm
             }
             else
             {
+                Console.WriteLine();
                 Console.WriteLine("O Valor de um depósito deve ser maior do que 0.");
+                Console.Write("Insira um depósito na formatação correta: ");
+                amount = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                BankBalance += amount;
             }
         }
 
@@ -104,13 +116,18 @@ namespace ExercicioUm
             else
             {
                 Console.WriteLine("O Valor de um saque deve ser maior do que 0.");
+                Console.WriteLine();
+                Console.Write("Insira um saque na formatação correta: ");
+                amount = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                BankBalance -= 5;
+                BankBalance -= amount;
             }
         }
 
         public override string ToString()
         {
-            return "Conta: " + _accountNumber
-                + ", Titular da conta: " + _name
+            return "Conta: " + AccountNumber
+                + ", Titular da conta: " + Name
                 + ", Saldo total: " + BankBalance.ToString("F2", CultureInfo.InvariantCulture);
         }
 
