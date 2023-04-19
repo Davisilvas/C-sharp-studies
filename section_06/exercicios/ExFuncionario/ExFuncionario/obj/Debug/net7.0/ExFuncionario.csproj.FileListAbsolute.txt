@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\bin\Debug\net7.0\ExFuncionario.exe
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\bin\Debug\net7.0\ExFuncionario.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\bin\Debug\net7.0\ExFuncionario.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\bin\Debug\net7.0\ExFuncionario.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\bin\Debug\net7.0\ExFuncionario.pdb
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\obj\Debug\net7.0\ExFuncionario.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\obj\Debug\net7.0\ExFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\obj\Debug\net7.0\ExFuncionario.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\obj\Debug\net7.0\ExFuncionario.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\obj\Debug\net7.0\ExFuncionario.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\obj\Debug\net7.0\ExFuncionario.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\obj\Debug\net7.0\refint\ExFuncionario.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\obj\Debug\net7.0\ExFuncionario.pdb
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\obj\Debug\net7.0\ExFuncionario.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExFuncionario\ExFuncionario\obj\Debug\net7.0\ref\ExFuncionario.dll

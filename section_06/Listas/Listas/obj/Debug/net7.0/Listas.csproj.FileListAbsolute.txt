@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\bin\Debug\net7.0\Listas.exe
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\bin\Debug\net7.0\Listas.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\bin\Debug\net7.0\Listas.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\bin\Debug\net7.0\Listas.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\bin\Debug\net7.0\Listas.pdb
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\obj\Debug\net7.0\Listas.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\obj\Debug\net7.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\obj\Debug\net7.0\Listas.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\obj\Debug\net7.0\Listas.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\obj\Debug\net7.0\Listas.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\obj\Debug\net7.0\Listas.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\obj\Debug\net7.0\refint\Listas.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\obj\Debug\net7.0\Listas.pdb
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\obj\Debug\net7.0\Listas.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\Listas\Listas\obj\Debug\net7.0\ref\Listas.dll

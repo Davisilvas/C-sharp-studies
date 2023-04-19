@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\bin\Debug\net7.0\ParamsLesson.exe
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\bin\Debug\net7.0\ParamsLesson.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\bin\Debug\net7.0\ParamsLesson.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\bin\Debug\net7.0\ParamsLesson.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\bin\Debug\net7.0\ParamsLesson.pdb
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\obj\Debug\net7.0\ParamsLesson.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\obj\Debug\net7.0\ParamsLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\obj\Debug\net7.0\ParamsLesson.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\obj\Debug\net7.0\ParamsLesson.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\obj\Debug\net7.0\ParamsLesson.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\obj\Debug\net7.0\ParamsLesson.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\obj\Debug\net7.0\refint\ParamsLesson.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\obj\Debug\net7.0\ParamsLesson.pdb
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\obj\Debug\net7.0\ParamsLesson.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\ParamsLesson\ParamsLesson\obj\Debug\net7.0\ref\ParamsLesson.dll

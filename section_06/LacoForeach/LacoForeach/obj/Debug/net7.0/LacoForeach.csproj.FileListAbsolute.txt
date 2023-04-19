@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\bin\Debug\net7.0\LacoForeach.exe
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\bin\Debug\net7.0\LacoForeach.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\bin\Debug\net7.0\LacoForeach.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\bin\Debug\net7.0\LacoForeach.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\bin\Debug\net7.0\LacoForeach.pdb
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\obj\Debug\net7.0\LacoForeach.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\obj\Debug\net7.0\LacoForeach.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\obj\Debug\net7.0\LacoForeach.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\obj\Debug\net7.0\LacoForeach.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\obj\Debug\net7.0\LacoForeach.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\obj\Debug\net7.0\LacoForeach.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\obj\Debug\net7.0\refint\LacoForeach.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\obj\Debug\net7.0\LacoForeach.pdb
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\obj\Debug\net7.0\LacoForeach.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\LacoForeach\LacoForeach\obj\Debug\net7.0\ref\LacoForeach.dll

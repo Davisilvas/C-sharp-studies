@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\bin\Debug\net7.0\RefAndOut.exe
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\bin\Debug\net7.0\RefAndOut.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\bin\Debug\net7.0\RefAndOut.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\bin\Debug\net7.0\RefAndOut.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\bin\Debug\net7.0\RefAndOut.pdb
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\obj\Debug\net7.0\RefAndOut.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\obj\Debug\net7.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\obj\Debug\net7.0\RefAndOut.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\obj\Debug\net7.0\RefAndOut.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\obj\Debug\net7.0\RefAndOut.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\obj\Debug\net7.0\RefAndOut.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\obj\Debug\net7.0\refint\RefAndOut.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\obj\Debug\net7.0\RefAndOut.pdb
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\obj\Debug\net7.0\RefAndOut.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\RefAndOut\RefAndOut\obj\Debug\net7.0\ref\RefAndOut.dll
