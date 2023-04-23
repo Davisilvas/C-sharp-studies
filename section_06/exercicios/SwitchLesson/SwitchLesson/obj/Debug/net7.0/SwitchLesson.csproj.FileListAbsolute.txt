@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\bin\Debug\net7.0\SwitchLesson.exe
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\bin\Debug\net7.0\SwitchLesson.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\bin\Debug\net7.0\SwitchLesson.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\bin\Debug\net7.0\SwitchLesson.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\bin\Debug\net7.0\SwitchLesson.pdb
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\obj\Debug\net7.0\SwitchLesson.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\obj\Debug\net7.0\SwitchLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\obj\Debug\net7.0\SwitchLesson.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\obj\Debug\net7.0\SwitchLesson.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\obj\Debug\net7.0\SwitchLesson.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\obj\Debug\net7.0\SwitchLesson.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\obj\Debug\net7.0\refint\SwitchLesson.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\obj\Debug\net7.0\SwitchLesson.pdb
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\obj\Debug\net7.0\SwitchLesson.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\SwitchLesson\SwitchLesson\obj\Debug\net7.0\ref\SwitchLesson.dll

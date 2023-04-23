@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\bin\Debug\net7.0\ExMatrizes.exe
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\bin\Debug\net7.0\ExMatrizes.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\bin\Debug\net7.0\ExMatrizes.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\bin\Debug\net7.0\ExMatrizes.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\bin\Debug\net7.0\ExMatrizes.pdb
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\obj\Debug\net7.0\ExMatrizes.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\obj\Debug\net7.0\ExMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\obj\Debug\net7.0\ExMatrizes.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\obj\Debug\net7.0\ExMatrizes.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\obj\Debug\net7.0\ExMatrizes.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\obj\Debug\net7.0\ExMatrizes.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\obj\Debug\net7.0\refint\ExMatrizes.dll
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\obj\Debug\net7.0\ExMatrizes.pdb
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\obj\Debug\net7.0\ExMatrizes.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_06\exercicios\ExMatrizes\ExMatrizes\obj\Debug\net7.0\ref\ExMatrizes.dll
