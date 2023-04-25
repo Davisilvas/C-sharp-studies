@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\bin\Debug\net7.0\WorkerCalc.exe
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\bin\Debug\net7.0\WorkerCalc.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\bin\Debug\net7.0\WorkerCalc.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\bin\Debug\net7.0\WorkerCalc.dll
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\bin\Debug\net7.0\WorkerCalc.pdb
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\obj\Debug\net7.0\WorkerCalc.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\obj\Debug\net7.0\WorkerCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\obj\Debug\net7.0\WorkerCalc.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\obj\Debug\net7.0\WorkerCalc.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\obj\Debug\net7.0\WorkerCalc.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\obj\Debug\net7.0\WorkerCalc.dll
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\obj\Debug\net7.0\refint\WorkerCalc.dll
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\obj\Debug\net7.0\WorkerCalc.pdb
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\obj\Debug\net7.0\WorkerCalc.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\WorkerCalc\WorkerCalc\obj\Debug\net7.0\ref\WorkerCalc.dll

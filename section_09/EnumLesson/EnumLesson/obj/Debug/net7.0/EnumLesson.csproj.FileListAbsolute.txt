@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\bin\Debug\net7.0\EnumLesson.exe
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\bin\Debug\net7.0\EnumLesson.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\bin\Debug\net7.0\EnumLesson.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\bin\Debug\net7.0\EnumLesson.dll
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\bin\Debug\net7.0\EnumLesson.pdb
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\obj\Debug\net7.0\EnumLesson.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\obj\Debug\net7.0\EnumLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\obj\Debug\net7.0\EnumLesson.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\obj\Debug\net7.0\EnumLesson.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\obj\Debug\net7.0\EnumLesson.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\obj\Debug\net7.0\EnumLesson.dll
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\obj\Debug\net7.0\refint\EnumLesson.dll
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\obj\Debug\net7.0\EnumLesson.pdb
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\obj\Debug\net7.0\EnumLesson.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_09\EnumLesson\EnumLesson\obj\Debug\net7.0\ref\EnumLesson.dll
