@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\bin\Debug\net7.0\PostBuilder.exe
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\bin\Debug\net7.0\PostBuilder.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\bin\Debug\net7.0\PostBuilder.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\bin\Debug\net7.0\PostBuilder.dll
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\bin\Debug\net7.0\PostBuilder.pdb
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\obj\Debug\net7.0\PostBuilder.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\obj\Debug\net7.0\PostBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\obj\Debug\net7.0\PostBuilder.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\obj\Debug\net7.0\PostBuilder.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\obj\Debug\net7.0\PostBuilder.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\obj\Debug\net7.0\PostBuilder.dll
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\obj\Debug\net7.0\refint\PostBuilder.dll
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\obj\Debug\net7.0\PostBuilder.pdb
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\obj\Debug\net7.0\PostBuilder.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_09\exercicios\StringBuilder\StringBuilder\obj\Debug\net7.0\ref\PostBuilder.dll
