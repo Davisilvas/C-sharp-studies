@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using EmployeeManagement.Entities;
 
 namespace EmployeeManagement
@@ -28,7 +29,7 @@ namespace EmployeeManagement
                     int hours = int.Parse(Console.ReadLine());
 
                     Console.Write("Value per hour: ");
-                    double valuePerHour = double.Parse(Console.ReadLine());
+                    double valuePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                     staff.Add(new Employee(name, hours, valuePerHour));
                     Console.WriteLine();
@@ -42,19 +43,20 @@ namespace EmployeeManagement
                     int hours = int.Parse(Console.ReadLine());
 
                     Console.Write("Value per hour: ");
-                    double valuePerHour = double.Parse(Console.ReadLine());
+                    double valuePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                     Console.Write("Additional charge: ");
-                    double additionalCharge = double.Parse(Console.ReadLine());
+                    double additionalCharge = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
                     staff.Add(new OutsourcedEmployee(name, hours, valuePerHour, additionalCharge));
                     Console.WriteLine();
                 }
             }
 
+            Console.WriteLine("PAYMENTS:");
             foreach (Employee emp in staff)
             {
-                Console.WriteLine(emp.Name + " - $ " + emp.Payment());
+                Console.WriteLine(emp.Name + " - $ " + emp.Payment().ToString("F2", CultureInfo.InvariantCulture));
             }
         }
     }
