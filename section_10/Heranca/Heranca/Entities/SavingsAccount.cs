@@ -22,5 +22,11 @@
         {
             Balance -= amount;
         }
+
+        /*public override void Withdraw(double amount)
+        {
+            base.Withdraw(amount);
+            Balance -= 2.0;
+        }*/
     }
 }
