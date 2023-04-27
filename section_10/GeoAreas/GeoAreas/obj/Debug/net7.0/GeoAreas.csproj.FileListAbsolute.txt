@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\bin\Debug\net7.0\GeoAreas.exe
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\bin\Debug\net7.0\GeoAreas.deps.json
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\bin\Debug\net7.0\GeoAreas.runtimeconfig.json
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\bin\Debug\net7.0\GeoAreas.dll
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\bin\Debug\net7.0\GeoAreas.pdb
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\obj\Debug\net7.0\GeoAreas.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\obj\Debug\net7.0\GeoAreas.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\obj\Debug\net7.0\GeoAreas.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\obj\Debug\net7.0\GeoAreas.AssemblyInfo.cs
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\obj\Debug\net7.0\GeoAreas.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\obj\Debug\net7.0\GeoAreas.dll
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\obj\Debug\net7.0\refint\GeoAreas.dll
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\obj\Debug\net7.0\GeoAreas.pdb
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\obj\Debug\net7.0\GeoAreas.genruntimeconfig.cache
+D:\MY_DESKTOP\c_CSharpe\section_10\GeoAreas\GeoAreas\obj\Debug\net7.0\ref\GeoAreas.dll
