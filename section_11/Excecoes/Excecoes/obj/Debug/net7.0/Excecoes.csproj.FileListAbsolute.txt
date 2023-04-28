@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\bin\Debug\net7.0\Excecoes.exe
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\bin\Debug\net7.0\Excecoes.deps.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\bin\Debug\net7.0\Excecoes.runtimeconfig.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\bin\Debug\net7.0\Excecoes.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\bin\Debug\net7.0\Excecoes.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\obj\Debug\net7.0\Excecoes.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\obj\Debug\net7.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\obj\Debug\net7.0\Excecoes.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\obj\Debug\net7.0\Excecoes.AssemblyInfo.cs
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\obj\Debug\net7.0\Excecoes.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\obj\Debug\net7.0\Excecoes.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\obj\Debug\net7.0\refint\Excecoes.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\obj\Debug\net7.0\Excecoes.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\obj\Debug\net7.0\Excecoes.genruntimeconfig.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_11\Excecoes\Excecoes\obj\Debug\net7.0\ref\Excecoes.dll
