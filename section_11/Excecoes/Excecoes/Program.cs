@@ -41,6 +41,14 @@ namespace Excecoes
             {
                 Console.WriteLine("Error in reservation: " + e.Message);
             }
+            catch (FormatException e)
+            {
+                Console.WriteLine("Format Error: " + e.Message);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Unexpected Error: " + e.Message);
+            }
 
 
         }
