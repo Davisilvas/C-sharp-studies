@@ -40,7 +40,12 @@
         public void incrementarQteMovimentos()
         {
             qteMovimentos++;
-        } 
+        }
+
+        public void decrementarQteMovimentos()
+        {
+            qteMovimentos--;
+        }
         public abstract bool[,] movimentosPossiveis();
     }
 }
