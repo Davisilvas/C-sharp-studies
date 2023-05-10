@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\bin\Debug\net6.0\LStreamReader.exe
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\bin\Debug\net6.0\LStreamReader.deps.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\bin\Debug\net6.0\LStreamReader.runtimeconfig.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\bin\Debug\net6.0\LStreamReader.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\bin\Debug\net6.0\LStreamReader.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\obj\Debug\net6.0\LStreamReader.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\obj\Debug\net6.0\LStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\obj\Debug\net6.0\LStreamReader.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\obj\Debug\net6.0\LStreamReader.AssemblyInfo.cs
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\obj\Debug\net6.0\LStreamReader.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\obj\Debug\net6.0\LStreamReader.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\obj\Debug\net6.0\refint\LStreamReader.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\obj\Debug\net6.0\LStreamReader.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\obj\Debug\net6.0\LStreamReader.genruntimeconfig.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamReader\LStreamReader\obj\Debug\net6.0\ref\LStreamReader.dll
