@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\bin\Debug\net6.0\LessonOne.exe
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\bin\Debug\net6.0\LessonOne.deps.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\bin\Debug\net6.0\LessonOne.runtimeconfig.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\bin\Debug\net6.0\LessonOne.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\bin\Debug\net6.0\LessonOne.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.AssemblyInfo.cs
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\obj\Debug\net6.0\refint\LessonOne.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\obj\Debug\net6.0\LessonOne.genruntimeconfig.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LessonOne\LessonOne\obj\Debug\net6.0\ref\LessonOne.dll
