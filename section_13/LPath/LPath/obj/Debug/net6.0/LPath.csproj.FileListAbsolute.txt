@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\bin\Debug\net6.0\LPath.exe
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\bin\Debug\net6.0\LPath.deps.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\bin\Debug\net6.0\LPath.runtimeconfig.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\bin\Debug\net6.0\LPath.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\bin\Debug\net6.0\LPath.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\obj\Debug\net6.0\LPath.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\obj\Debug\net6.0\LPath.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\obj\Debug\net6.0\LPath.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\obj\Debug\net6.0\LPath.AssemblyInfo.cs
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\obj\Debug\net6.0\LPath.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\obj\Debug\net6.0\LPath.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\obj\Debug\net6.0\refint\LPath.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\obj\Debug\net6.0\LPath.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\obj\Debug\net6.0\LPath.genruntimeconfig.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LPath\LPath\obj\Debug\net6.0\ref\LPath.dll

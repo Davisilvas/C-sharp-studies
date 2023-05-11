@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\bin\Debug\net6.0\BlockUsing.exe
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\bin\Debug\net6.0\BlockUsing.deps.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\bin\Debug\net6.0\BlockUsing.runtimeconfig.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\bin\Debug\net6.0\BlockUsing.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\bin\Debug\net6.0\BlockUsing.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\obj\Debug\net6.0\BlockUsing.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\obj\Debug\net6.0\BlockUsing.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\obj\Debug\net6.0\BlockUsing.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\obj\Debug\net6.0\BlockUsing.AssemblyInfo.cs
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\obj\Debug\net6.0\BlockUsing.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\obj\Debug\net6.0\BlockUsing.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\obj\Debug\net6.0\refint\BlockUsing.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\obj\Debug\net6.0\BlockUsing.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\obj\Debug\net6.0\BlockUsing.genruntimeconfig.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\BlockUsing\BlockUsing\obj\Debug\net6.0\ref\BlockUsing.dll

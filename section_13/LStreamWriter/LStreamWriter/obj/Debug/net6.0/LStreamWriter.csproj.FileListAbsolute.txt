@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\bin\Debug\net6.0\LStreamWriter.exe
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\bin\Debug\net6.0\LStreamWriter.deps.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\bin\Debug\net6.0\LStreamWriter.runtimeconfig.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\bin\Debug\net6.0\LStreamWriter.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\bin\Debug\net6.0\LStreamWriter.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\obj\Debug\net6.0\LStreamWriter.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\obj\Debug\net6.0\LStreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\obj\Debug\net6.0\LStreamWriter.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\obj\Debug\net6.0\LStreamWriter.AssemblyInfo.cs
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\obj\Debug\net6.0\LStreamWriter.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\obj\Debug\net6.0\LStreamWriter.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\obj\Debug\net6.0\refint\LStreamWriter.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\obj\Debug\net6.0\LStreamWriter.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\obj\Debug\net6.0\LStreamWriter.genruntimeconfig.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_13\LStreamWriter\LStreamWriter\obj\Debug\net6.0\ref\LStreamWriter.dll
