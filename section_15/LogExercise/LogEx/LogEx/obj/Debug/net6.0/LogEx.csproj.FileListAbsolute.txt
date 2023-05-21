@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\bin\Debug\net6.0\LogEx.exe
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\bin\Debug\net6.0\LogEx.deps.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\bin\Debug\net6.0\LogEx.runtimeconfig.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\bin\Debug\net6.0\LogEx.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\bin\Debug\net6.0\LogEx.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\obj\Debug\net6.0\LogEx.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\obj\Debug\net6.0\LogEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\obj\Debug\net6.0\LogEx.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\obj\Debug\net6.0\LogEx.AssemblyInfo.cs
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\obj\Debug\net6.0\LogEx.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\obj\Debug\net6.0\LogEx.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\obj\Debug\net6.0\refint\LogEx.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\obj\Debug\net6.0\LogEx.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\obj\Debug\net6.0\LogEx.genruntimeconfig.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_15\LogExercise\LogEx\LogEx\obj\Debug\net6.0\ref\LogEx.dll
