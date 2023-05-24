@@ -1,0 +1,15 @@
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\bin\Debug\net6.0\exercise.exe
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\bin\Debug\net6.0\exercise.deps.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\bin\Debug\net6.0\exercise.runtimeconfig.json
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\bin\Debug\net6.0\exercise.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\bin\Debug\net6.0\exercise.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\obj\Debug\net6.0\exercise.csproj.AssemblyReference.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\obj\Debug\net6.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\obj\Debug\net6.0\exercise.AssemblyInfoInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\obj\Debug\net6.0\exercise.AssemblyInfo.cs
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\obj\Debug\net6.0\exercise.csproj.CoreCompileInputs.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\obj\Debug\net6.0\exercise.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\obj\Debug\net6.0\refint\exercise.dll
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\obj\Debug\net6.0\exercise.pdb
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\obj\Debug\net6.0\exercise.genruntimeconfig.cache
+D:\MY_DESKTOP\1 CODES\c_CSharpe\section_16\exercise\exercise\obj\Debug\net6.0\ref\exercise.dll
